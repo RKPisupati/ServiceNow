@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_813663_health_0_ha" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="x_813663_health_0_ha" element="NULL" name="x_813663_health_0_ha" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">33e0698d8713011068fc0d47dabb35ba</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-04 18:44:34</sys_created_on>
+            <sys_id>bfe0698d8713011068fc0d47dabb35ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-04 18:44:34</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_813663_health_0_ha</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-04 18:44:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>33e0698d8713011068fc0d47dabb35ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_813663_health_0_ha</sys_name>
+            <sys_package display_value="Health Assessment" source="x_813663_health_0">7baddd898713011068fc0d47dabb3599</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Health Assessment">7baddd898713011068fc0d47dabb3599</sys_scope>
+            <sys_update_name>sys_ui_list_x_813663_health_0_ha_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-04 18:44:34</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
